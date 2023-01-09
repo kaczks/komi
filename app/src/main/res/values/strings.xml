@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">komi</string>
+    <string name="miasto_startowe">Miasto startowe</string>
+    <string name="miasto_ko_cowe">Miasto końcowe</string>
+    <string name="zapisz_jako_garf">Zapisz jako garf</string>
+    <string name="wyznacz_najkrotsz_tras">Wyznacz najkrotszą trasę</string>
+</resources>
