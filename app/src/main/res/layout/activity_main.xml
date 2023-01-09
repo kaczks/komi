@@ -35,7 +35,7 @@
         app:layout_constraintVertical_bias="0.043" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/MiastoStartText"
         android:layout_width="133dp"
         android:layout_height="27dp"
         android:text="@string/miasto_startowe"
@@ -48,7 +48,7 @@
         app:layout_constraintVertical_bias="0.055" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/MiastoKoniecText"
         android:layout_width="133dp"
         android:layout_height="27dp"
         android:text="@string/miasto_ko_cowe"
