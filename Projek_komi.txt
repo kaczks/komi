@@ -1,0 +1,14 @@
+Maksymilian Golas 4 pr t5
+
+Po uruchomieniu aplikacji na ekreanie wyświetlą sie:
+- Trzy TextView 
+- Dwa spinery 
+- Dwa przyciski
+
+Pierwsze dwa TextView są uzupełnione textem. Pierwszy z napisem "Miasto startowe", a drugi "Miasto końcowe".
+Opisują one dwa spinery ktore posiadają rozwijaną listę 8 różnych stolic. W pierwszym spinerze wybieramy w ktorym mieście chcemy zacząć podróż, 
+a w drugim spinerze wybieramy miasto w ktorym chcemy zakończyć.
+Pod tymi kontrolkami znajduje sie przycisk który zawiera text "wyznacz najkrotszą trasę". Po kliknięciu tego przycisku uruchamia się algorytm komiwojażera,
+ktory za pomocą cyklu Hamiltona zanjduje najkrótszą drogę, odwiedzając każdy z punktów w cyklu.
+Pod przyciskiem znajduje sie puste TextView ktore wyświetli wynik algorytmu komiwojażera.
+Poniżej znajduje się przycisk po którego naciśnięciu graf komiwojażera zostaje zapisany w użądzeniu.
